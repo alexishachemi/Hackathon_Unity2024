@@ -1,5 +1,7 @@
 # Hackathon Unity réseau
 
+***Projet par Alexis Hachemi, Julien Auguet et Manal Bahri***
+
 ### PRÉSENTATION
 
 Durant cet hackathon l’objectif sera de créer un début de jeu multijoueur en utilisant la librairie mirror. Vous êtes libre de choisir quel type de jeu vous voulez faire. 
